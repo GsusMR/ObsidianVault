@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "5e8d45a5d00d8a62",
+    "type": "split",
+    "children": [
+      {
+        "id": "b39af7319e0ec63f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f60931d31fbb080",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49332f1e77f5a1eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bb301a56218a121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea0d1836510011cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b015216e4046f0d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4be97f08d2ad7737",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "c662baa8ec3f1986",
+    "type": "split",
+    "children": [
+      {
+        "id": "26155a77f28ad59a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "835b934103e9ea6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "a7a5817a805252c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "be3deac5309d929e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8ece9397ab17681d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "15cd07a5d3cefb1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "5f60931d31fbb080",
+  "lastOpenFiles": [
+    "Linux Fundamentals/Module 1/Lesson 2 Using essential tools/Lesson 2 Using essential Tools.md",
+    "Linux Fundamentals/Introduction.md",
+    "Linux Fundamentals/Sumary.md",
+    "Linux Fundamentals/Module 3/Module 3 Operating Running Systems.md",
+    "Linux Fundamentals/Module 3/Lesson 19 Reading Log Files/Lesson 19 Reading Log Files.md",
+    "Linux Fundamentals/Module 3/Lesson 18 Scheduling tasks/Lesson 18 Scheduling tasks.md",
+    "Linux Fundamentals/Module 3/Lesson 17 Process management/Lesson 17 Process management.md",
+    "Linux Fundamentals/Module 3/Lesson 16 Managing time/Lesson 16 Managing time.md",
+    "Linux Fundamentals/Module 3/Lesson 15 Managing SSH/Lesson 15 Managing SSH.md",
+    "Linux Fundamentals/Module 3/Lesson 14 Managing Software/Lesson 14 Managing Software.md",
+    "Linux Fundamentals/Module 3/Lesson 13 Working with Systemd/Lesson 13 Working with Systemd.md",
+    "Linux Fundamentals/Module 3/Lesson 12 Managing Networking/Lesson 12 Managing Networking.md",
+    "Linux Fundamentals/Module 2/Lesson 11 Storage management essentials/Lesson 11 Storage Management Essentials.md",
+    "Linux Fundamentals/Module 2/Module 2 User Group Management and permissions.md",
+    "Linux Fundamentals/Module 2/Lesson 10 Permissions Management/Lesson 10 Permissions Management.md",
+    "Linux Fundamentals/Module 2/Lesson 9 User and group management/Lesson 9 User and group management.md",
+    "Linux Fundamentals/Module 3/Lesson 19 Reading Log Files",
+    "Linux Fundamentals/Module 3/Lesson 18 Scheduling tasks",
+    "Linux Fundamentals/Module 3/Lesson 17 Process management",
+    "Linux Fundamentals/Module 3/Lesson 16 Managing time",
+    "Linux Fundamentals/Module 3/Lesson 15 Managing SSH",
+    "Linux Fundamentals/Module 3/Lesson 14 Managing Software",
+    "Linux Fundamentals/Module 3/Lesson 13 Working with Systemd",
+    "Sin título.md",
+    "Linux Fundamentals/Module 2/Lesson 10 Permissions Management",
+    "Linux Fundamentals/Module 3/Lesson 12 Managing Networking",
+    "Linux Fundamentals/Module 2/Lesson 11 Storage management essentials",
+    "Linux Fundamentals/Module 1/Module 1 Essential Commands.md",
+    "Linux Fundamentals/Module 1/Lesson 8 working with the bash shell/Lesson 8 Working with the bash shell.md",
+    "Linux Fundamentals/Module 1/Lesson 7 Connecting to a server/Lesson 7 Connecting to a server.md",
+    "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/Lesson 6 Advanced text file processing.md",
+    "Linux Fundamentals/Module 1/Lesson 5 working with text files/Lesson 5 Working with text files.md",
+    "Linux Fundamentals/Module 1/Lesson 4 advanced file management tools/Lesson 4 Advanced file management tools.md",
+    "Linux Fundamentals/Module 1/Lesson 3 Essential file management tools/Lesson 3 Essential file management tools.md",
+    "Linux Fundamentals/Module 1/Lesson 1 Installing Linux/Lesson 1 Installing Linux.md",
+    "Ejemplo.md"
+  ]
+}

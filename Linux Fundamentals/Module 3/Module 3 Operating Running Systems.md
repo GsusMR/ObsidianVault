@@ -1,0 +1,8 @@
+[[Lesson 12 Managing Networking]]
+[[Lesson 13 Working with Systemd]]
+[[Lesson 14 Managing Software]]
+[[Lesson 15 Managing SSH]]
+[[Lesson 16 Managing time]]
+[[Lesson 17 Process management]]
+[[Lesson 18 Scheduling tasks]]
+[[Lesson 19 Reading Log Files]]
