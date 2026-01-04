@@ -7,5 +7,6 @@ What we´ll see:
 [[Module 1 Essential Commands]]
 [[Module 2 User Group Management and permissions ]]
 [[Module 3 Operating Running Systems]]
-[[Sumary]]
+[[Summary]]
+[[Comandos]]
 

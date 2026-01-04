@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"ad9a94aace7dc08a","type":"text","text":"Fedora","x":17,"y":-320,"width":110,"height":60,"color":"6"},
+		{"id":"fef1e268a6bee4ce","type":"text","text":"CentOs","x":20,"y":-220,"width":110,"height":60,"color":"6"},
+		{"id":"19ab7a14da2b3831","x":240,"y":-220,"width":110,"height":60,"type":"text","text":"Oracle"},
+		{"id":"501543cbd1da58f1","x":240,"y":-150,"width":110,"height":60,"color":"6","type":"text","text":"Rocky"},
+		{"id":"9b4d3918cb33144d","x":240,"y":-70,"width":110,"height":60,"color":"6","type":"text","text":"Alma"},
+		{"id":"633306d02f8b7b52","type":"text","text":"Linux \nFrom \nScratch","x":80,"y":60,"width":100,"height":80,"color":"5"},
+		{"id":"1788fc06faedc1ff","type":"text","text":"Linux \nGNU","x":-80,"y":70,"width":102,"height":60,"color":"5"},
+		{"id":"beb9fcf41473f3ad","type":"text","text":"Debian","x":-190,"y":-120,"width":110,"height":60,"color":"4"},
+		{"id":"8cdccf46bd172a3c","x":-190,"y":-220,"width":110,"height":60,"color":"4","type":"text","text":"Ubuntu"},
+		{"id":"ea87ec7e6230ee4f","x":-360,"y":-220,"width":80,"height":60,"color":"4","type":"text","text":"Kali"},
+		{"id":"442eea7b2207a48c","x":-190,"y":-320,"width":110,"height":60,"color":"4","type":"text","text":"Linux Mint"},
+		{"id":"bd6acca4da4ba88f","type":"text","text":"Red Hat","x":22,"y":-120,"width":105,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"a848b0c43a86bdc9","fromNode":"1788fc06faedc1ff","fromSide":"right","toNode":"633306d02f8b7b52","toSide":"left","toEnd":"none"},
+		{"id":"d3838e218f00a261","fromNode":"1788fc06faedc1ff","fromSide":"top","toNode":"bd6acca4da4ba88f","toSide":"bottom","color":"6"},
+		{"id":"3968cdcffe4efe35","fromNode":"1788fc06faedc1ff","fromSide":"top","toNode":"beb9fcf41473f3ad","toSide":"bottom","color":"4"},
+		{"id":"a0dae2038989eef8","fromNode":"fef1e268a6bee4ce","fromSide":"bottom","toNode":"bd6acca4da4ba88f","toSide":"top","color":"6"},
+		{"id":"0238a900e041726d","fromNode":"ad9a94aace7dc08a","fromSide":"bottom","toNode":"fef1e268a6bee4ce","toSide":"top","color":"6"},
+		{"id":"08416e05079fe698","fromNode":"bd6acca4da4ba88f","fromSide":"right","toNode":"9b4d3918cb33144d","toSide":"left","color":"6"},
+		{"id":"edcb6e6b88da6776","fromNode":"bd6acca4da4ba88f","fromSide":"right","toNode":"501543cbd1da58f1","toSide":"left","color":"6"},
+		{"id":"1257f12373d2c743","fromNode":"bd6acca4da4ba88f","fromSide":"right","toNode":"19ab7a14da2b3831","toSide":"left"},
+		{"id":"f2f651c4aad7e6e2","fromNode":"8cdccf46bd172a3c","fromSide":"left","toNode":"ea87ec7e6230ee4f","toSide":"right","color":"4"},
+		{"id":"99422b261f8a11ca","fromNode":"8cdccf46bd172a3c","fromSide":"top","toNode":"442eea7b2207a48c","toSide":"bottom","color":"4"},
+		{"id":"55a89c516f42f226","fromNode":"beb9fcf41473f3ad","fromSide":"top","toNode":"8cdccf46bd172a3c","toSide":"bottom","color":"4"}
+	]
+}

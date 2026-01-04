@@ -1,0 +1,10 @@
+[[2.1 Logging in to Linux]]
+[[2.2 Using su and sudo]]
+[[2.3 Starting on the Command Line]]
+[[2.4 Using the Seven Essential Linux command line Tools]]
+[[2.5 Getting help with man]]
+[[2.6 Finding which man page to use]]
+[[2.7 Using pinfo]]
+[[2.8 using other systems for getting help]]
+[[Lab]]
+
