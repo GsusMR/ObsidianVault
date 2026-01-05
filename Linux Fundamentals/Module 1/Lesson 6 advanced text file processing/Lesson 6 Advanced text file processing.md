@@ -1,0 +1,5 @@
+[[6.1 Using cut and sort]]
+[[6.2 Using regular expressions]]
+[[6.3 Using tr]]
+[[6.4 An introduction to awk]]
+[[6.5 Gettimg started with sed]]

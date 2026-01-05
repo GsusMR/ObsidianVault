@@ -18,7 +18,7 @@
       "query": "path:\"Linux Fundamentals/Module 2\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 4077227
       }
     },
     {
@@ -34,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.36288736930121124,
+  "collapse-forces": true,
+  "centerStrength": 0.328414782726411,
+  "repelStrength": 11.5933396507378,
+  "linkStrength": 0.449708948152159,
+  "linkDistance": 323,
+  "scale": 0.20663347003492694,
   "close": false
 }
