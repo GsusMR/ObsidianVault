@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5f5c4f676a5d8b67",
+        "id": "6a923fd9375b7819",
         "type": "tabs",
         "children": [
           {
-            "id": "7b402ee28e4c9bef",
+            "id": "f745104b397fba87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/6.2 Using regular expressions.md",
+                "file": "Linux Fundamentals/Module 1/Lesson 1 Installing Linux/1.1 Understanding the Linux Operating System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.2 Using regular expressions"
+              "title": "1.1 Understanding the Linux Operating System"
             }
           }
         ]
@@ -75,10 +75,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "759ad8121e16f83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b402ee28e4c9bef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 227.51103591918945
   },
   "right": {
     "id": "c662baa8ec3f1986",
@@ -113,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Fundamentals/Module 1/Lesson 1 Installing Linux/1.3 Getting Red Hat Family Linux.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 1.3 Getting Red Hat Family Linux"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -156,72 +171,87 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Fundamentals/Module 1/Lesson 1 Installing Linux/1.3 Getting Red Hat Family Linux.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1.3 Getting Red Hat Family Linux"
+              "title": "Esquema"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "c065fcf5dba1d568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21709a195bbb0ef9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "7b402ee28e4c9bef",
+  "active": "be3deac5309d929e",
   "lastOpenFiles": [
-    "Pasted image 20260104221206.png",
+    "Linux Fundamentals/Module 1/Lesson 1 Installing Linux/1.1 Understanding the Linux Operating System.md",
+    "Recursos/Plantillas/Notas.md",
+    "Agenda/Diario/06-01-2026.md",
+    "Agenda/Diario/07-01-2026.md",
+    "Recursos/Plantillas",
+    "Agenda/Rastreador de hábitos.md",
+    "Recursos",
+    "Agenda/Sin título.md",
+    "Agenda/Diario",
+    "Agenda",
+    "Agenda/Diario/07/01/2026.md",
+    "Agenda/Diario/07/01",
+    "Agenda/Diario/07",
+    "Agenda/Diario/01/01/2026.md",
+    "Agenda/Diario/01/01",
+    "Agenda/Diario/01",
+    "Agenda/02/01/2026.md",
+    "Agenda/01/01/2026.md",
+    "Agenda/02/01",
+    "Agenda/02",
+    "Agenda/07/01/2026.md",
+    "Agenda/09/01/2026.md",
+    "Agenda/2026-01-08.md",
+    "Agenda/2026-01-07.md",
+    "Agenda/2026-01-06.md",
+    "2026-01-06.md",
+    "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/6.3 Using tr.md",
+    "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/6.2 Using regular expressions.md",
+    "Linux Fundamentals/Pasted image 20260104221206.png",
     "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/6.1 Using cut and sort.md",
     "Linux Fundamentals/Comandos.md",
     "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/Lesson 6 Advanced text file processing.md",
     "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/6.5 Gettimg started with sed.md",
     "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/6.4 An introduction to awk.md",
-    "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/6.3 Using tr.md",
-    "Linux Fundamentals/Module 1/Lesson 6 advanced text file processing/6.2 Using regular expressions.md",
     "Linux Fundamentals/Module 1/Module 1 Essential Commands.md",
     "Linux Fundamentals/Module 1/Lesson 5 working with text files/5.7 Working with grep.md",
     "Linux Fundamentals/Module 1/Lesson 4 advanced file management tools/4.7 Managing file compression.md",
-    "Linux Fundamentals/Module 1/Lesson 4 advanced file management tools/4.8 Mounting file systems.md",
-    "Linux Fundamentals/Module 1/Lesson 4 advanced file management tools/Lesson 4 Advanced file management tools.md",
-    "Linux Fundamentals/Module 1/Lesson 5 working with text files/Lesson 5 Working with text files.md",
-    "Linux Fundamentals/Module 1/Lesson 5 working with text files/5.6 Displaying File contents with cat and tac.md",
-    "Linux Fundamentals/Module 1/Lesson 5 working with text files/5.5 using head and tail to see file start and end.md",
-    "Linux Fundamentals/Module 1/Lesson 5 working with text files/5.4 Browsing text files with more and less.md",
-    "Linux Fundamentals/Module 1/Lesson 5 working with text files/5.3 creating text files with vim.md",
-    "Linux Fundamentals/Module 1/Lesson 5 working with text files/5.2 Understanding working with vim.md",
-    "Linux Fundamentals/Module 1/Lesson 5 working with text files/5.1 Using a text editor.md",
-    "Linux Fundamentals/Module 1/Lesson 4 advanced file management tools/4.6 Archiving files with tar.md",
-    "Sin título.md",
-    "Linux Fundamentals/Module 1/Lesson 4 advanced file management tools/4.5 Using which and locate.md",
-    "Linux Fundamentals/Module 1/Lesson 4 advanced file management tools/4.4 Using advanced find Options.md",
-    "Linux Fundamentals/Module 1/Lesson 4 advanced file management tools/4.3 Finding files with find.md",
-    "Linux Fundamentals/Module 1/Lesson 4 advanced file management tools/4.2 Managing hard and symbolic links.md",
-    "Linux Fundamentals/Module 1/Lesson 1 Installing Linux/Linux Distributions.canvas",
-    "Sin título.base",
-    "Linux Fundamentals/Module 3/Lesson 19 Reading Log Files",
-    "Linux Fundamentals/Module 3/Lesson 18 Scheduling tasks",
-    "Linux Fundamentals/Module 3/Lesson 17 Process management",
-    "Linux Fundamentals/Module 3/Lesson 16 Managing time",
-    "Linux Fundamentals/Module 3/Lesson 15 Managing SSH",
-    "Linux Fundamentals/Module 3/Lesson 14 Managing Software",
-    "Linux Fundamentals/Module 3/Lesson 13 Working with Systemd",
-    "Linux Fundamentals/Module 2/Lesson 10 Permissions Management",
-    "Linux Fundamentals/Module 3/Lesson 12 Managing Networking"
+    "Linux Fundamentals/Module 1/Lesson 1 Installing Linux/Linux Distributions.canvas"
   ]
 }
